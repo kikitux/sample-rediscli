@@ -1,0 +1,10 @@
+sudo: enabled
+language: generic
+
+addons:
+  apt:
+    packages:
+      - redis-tools
+      - redis-server
+      
+      
