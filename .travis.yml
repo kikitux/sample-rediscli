@@ -8,3 +8,5 @@ addons:
       - redis-server
       
       
+script:
+      - bash app.sh
